@@ -112,7 +112,7 @@ query {
   }
 }
 ```
-!(desktop/caps/cap1.png)
+!(caps\cap1.png)
 
 ### 2. Ajouter une nouvelle tâche
 
@@ -125,7 +125,7 @@ mutation {
   }
 }
 ```
-!(desktop/caps/cap2.png)
+!(caps\cap2.png)
 
 ### 3. Marquer une tâche comme complète
 
@@ -137,7 +137,7 @@ mutation {
   }
 }
 ```
-!(desktop/caps/cap3.png)
+!(caps\cap3.png)
 
 ### 4. Supprimer une tâche
 
@@ -146,7 +146,7 @@ mutation {
   deleteTask(id: "2")
 }
 ```
-!(desktop/caps/cap4.png)
+!(caps\cap4.png)
 ---
 
 ## Auteur
