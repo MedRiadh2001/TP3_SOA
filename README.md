@@ -125,7 +125,7 @@ mutation {
   }
 }
 ```
-![](caps\cap2.png)
+![](caps/cap2.png)
 
 ### 3. Marquer une tâche comme complète
 
@@ -137,7 +137,7 @@ mutation {
   }
 }
 ```
-!(caps\cap3.png)
+![](caps/cap3.png)
 
 ### 4. Supprimer une tâche
 
@@ -146,7 +146,8 @@ mutation {
   deleteTask(id: "2")
 }
 ```
-!(caps\cap4.png)
+![](caps/cap4.png)
+
 ---
 
 ## Auteur
