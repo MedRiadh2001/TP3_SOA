@@ -112,7 +112,7 @@ query {
   }
 }
 ```
-![](cap1.png)
+![](caps/cap1.png)
 
 ### 2. Ajouter une nouvelle tâche
 
