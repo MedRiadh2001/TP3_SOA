@@ -125,7 +125,7 @@ mutation {
   }
 }
 ```
-!(caps\cap2.png)
+![](caps\cap2.png)
 
 ### 3. Marquer une tâche comme complète
 
